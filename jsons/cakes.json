@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "620233d85671b1c599a4deb8"
+  },
+  "name": "vanila cake",
+  "info": "The best cake in the shop ! we write this on every cake !!! but this is the best",
+  "price": 70,
+  "img_url": "https://images.pexels.com/photos/4110001/pexels-photo-4110001.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-08T09:08:38.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620234d35671b1c599a4deba"
+  },
+  "name": "chocolate cake",
+  "info": "The best choclate cake",
+  "price": 75,
+  "img_url": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-08T09:08:38.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620235035671b1c599a4debc"
+  },
+  "name": "Kiwi cake",
+  "info": "The best kiwi cake with vietamen C",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/1721934/pexels-photo-1721934.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-08T09:08:38.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620235505671b1c599a4debe"
+  },
+  "name": "Broccoli cake",
+  "info": "The best broccoli cake with tons of vietamen C",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/6210755/pexels-photo-6210755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-08T09:08:38.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208d36756583591749a42f7"
+  },
+  "name": "Banana of trump cake",
+  "info": "The best orange cake with tons of vietamen C",
+  "price": 44,
+  "img_url": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-13T09:46:09.451Z"
+  },
+  "user_id": "6208aa7bc3a5dd83bf679526",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208d4a656583591749a42ff"
+  },
+  "name": "Orangel and chocolate cake",
+  "info": "The best orange cake with tons of vietamen C",
+  "price": 44,
+  "img_url": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-13T09:46:09.451Z"
+  },
+  "user_id": "6208d44656583591749a42f9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b6ff204e19d566a493181"
+  },
+  "name": "Lemon cake",
+  "info": "The best lemon cake with tons of vietamen C",
+  "price": 30,
+  "img_url": "https://images.pexels.com/photos/264939/pexels-photo-264939.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-15T09:17:03.396Z"
+  },
+  "user_id": "620b6494c9658bec0edf71f4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b703604e19d566a493183"
+  },
+  "name": "Snow cake",
+  "info": "The best snow cake with tons of vietamen C",
+  "price": 40,
+  "img_url": "https://images.pexels.com/photos/11136871/pexels-photo-11136871.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-15T09:17:03.396Z"
+  },
+  "user_id": "620b6494c9658bec0edf71f4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b70c004e19d566a493185"
+  },
+  "name": "oil cake",
+  "info": "",
+  "price": 40,
+  "img_url": "https://images.pexels.com/photos/11112061/pexels-photo-11112061.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": "2022-02-15T09:17:03.396Z"
+  },
+  "user_id": "620b6494c9658bec0edf71f4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6211f35327cc91f50634b523"
+  },
+  "name": "kiwi cake",
+  "info": "best kiwi cake",
+  "price": 50,
+  "img_url": "",
+  "date_created": {
+    "$date": "2022-02-20T07:07:55.800Z"
+  },
+  "user_id": "6208d44656583591749a42f9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6211f58127cc91f50634b533"
+  },
+  "name": "chocolate cake",
+  "info": "good chocolate cake",
+  "price": 60,
+  "img_url": "",
+  "date_created": {
+    "$date": "2022-02-20T07:07:55.800Z"
+  },
+  "user_id": "6208d44656583591749a42f9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6211f59927cc91f50634b536"
+  },
+  "name": "yoyo cake",
+  "info": "best cookies ever !",
+  "price": 40,
+  "img_url": "",
+  "date_created": {
+    "$date": "2022-02-20T07:07:55.800Z"
+  },
+  "user_id": "6208d44656583591749a42f9",
+  "__v": 0
+}]

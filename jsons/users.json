@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62023da4ae7a823ff8f904b0"
+  },
+  "name": "jack cohen",
+  "email": "jackob@walla.com",
+  "password": "$2b$10$r5WG3futv4XrjZ60FgMp3u8ne7xURoOOB5FQENPsGj6NN9fXAhqXm",
+  "address": "",
+  "date_created": {
+    "$date": "2022-02-08T09:53:39.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62023dd4d9929b52a1518480"
+  },
+  "name": "koko cohen",
+  "email": "koko@walla.com",
+  "password": "$2b$10$fc3osISShm92nXg3K0UUUOCHkG/t3uernE/sCKc.4UOSZBnK4UjoC",
+  "address": "",
+  "date_created": {
+    "$date": "2022-02-08T09:54:14.120Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208aa7bc3a5dd83bf679526"
+  },
+  "name": "joe biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$Gh5LgFEZYT2AMt/4mdrnwO6wLOOdb4OeF0k.bQ7J/PYL8XC9TGFZ.",
+  "address": "white house",
+  "date_created": {
+    "$date": "2022-02-13T06:43:22.635Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208d44656583591749a42f9"
+  },
+  "name": "donald trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$f2yIaEDggRTiA.pmOEZQA.OWjuKimuyVyZGFVdpz9vwQSCRWAixAK",
+  "address": "new york",
+  "date_created": {
+    "$date": "2022-02-13T09:46:09.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b6494c9658bec0edf71f4"
+  },
+  "name": "vladi putin",
+  "email": "putin@walla.com",
+  "password": "$2b$10$dX1/vEilPvPRKGcZD0uexeTZZkBJoizBTAc0cDwopZIhmQckin2ja",
+  "address": "ukraine",
+  "date_created": {
+    "$date": "2022-02-15T08:20:40.035Z"
+  },
+  "__v": 0
+}]
